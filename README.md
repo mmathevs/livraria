@@ -9,3 +9,5 @@
 - Cadastro de **Clientes**, **Funcionários** e **Produtos**
 - Listagem de registros já cadastrados
 - Estrutura modular (frontend, backend, database separados)
+
+<link href="index.php">index</link>

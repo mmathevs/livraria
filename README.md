@@ -10,4 +10,7 @@
 - Listagem de registros já cadastrados
 - Estrutura modular (frontend, backend, database separados)
 
+<!DOCTYPE html>
+<html lang="en">
 <link href="index.php">index</link>
+</html>

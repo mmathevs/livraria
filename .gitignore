@@ -12,3 +12,4 @@ Thumbs.db
 # Configurações Locais
 .env
 config.php
+conexao.php
